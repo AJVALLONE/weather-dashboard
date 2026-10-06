@@ -14,7 +14,7 @@ A live weather application built with vanilla JavaScript and the OpenWeatherMap 
 HTML5 · CSS3 · JavaScript (ES6+) · REST API · Fetch API · Promise.all
 
 ## Live Demo
-[View Live →](https://ajvallone.netlify.app/weather-dashboard.html)
+[View Live →](https://ajvallone.netlify.app/weather-dashboard)
 
 ## Setup
 1. Clone or download this repo
